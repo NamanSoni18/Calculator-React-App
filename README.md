@@ -17,21 +17,24 @@ To install and run the project locally:
    git clone https://github.com/NamanSoni18/Calculator-React-App.git
 
 2. Navigate to the project directory:
-cd Calculator-React-App
+   ```sh
+   cd Calculator-React-App
 
 3. Install the dependencies:
-npm install
+   ```sh
+   npm install
 
 4. Start the development server:
-npm run dev
+   ```sh
+   npm run dev
 
 Usage
 Open your browser and navigate to http://localhost:5173 to use the calculator.
 
 Technologies Used
-React
-CSS
-Bootstrap
+   React
+   CSS
+   Bootstrap
 
 
 Contributing
