@@ -32,9 +32,9 @@ Usage
 Open your browser and navigate to http://localhost:5173 to use the calculator.
 
 Technologies Used
-   React
-   CSS
-   Bootstrap
+- React
+- CSS
+- Bootstrap
 
 
 Contributing
