@@ -7,7 +7,7 @@ A simple calculator app built using React.
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Responsive design suitable for various screen sizes.
 - Clear button to reset the calculator.
-![Screenshot of Todo-React-App](./images/calculator-react-app-img.png)
+![Screenshot of Todo-React-App](./images/calculator-react-app-img.jpg)
 
 ## Installation
 
